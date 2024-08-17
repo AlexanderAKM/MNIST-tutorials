@@ -57,3 +57,4 @@ There are a number of ideas I'm either working on or would like to implement in 
 - Implementing uncertainty quantification in the advanced tutorial.
 - Implementing Tensorboard logging in the intermediate/advanced tutorial.
 - Implement model interpretability in the advanced tutorial.
+- Make python scripts that have similar functionality to the tutorials.

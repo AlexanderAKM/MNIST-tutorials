@@ -1,6 +1,6 @@
 # MNIST Tutorials with PyTorch
 
-Welcome to this comprehensive series of tutorials on building machine learning models using PyTorch to recognize handwritten digits from the MNIST dataset. This repository contains three tutorials designed to guide you from a beginner level to more advanced concepts and techniques in deep learning with PyTorch.
+Welcome to this series of tutorials on building machine learning models using PyTorch to recognize handwritten digits from the MNIST dataset. This repository contains three tutorials designed to guide you from a beginner level to more advanced concepts and techniques in deep learning with PyTorch.
 
 ## Tutorials Overview
 
@@ -38,19 +38,22 @@ This tutorial is designed for those who have completed the beginner and intermed
 ## How to Use This Repository
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/mnist-tutorials.git
+   git clone https://github.com/AlexanderAKM/MNIST-tutorial.git
 
 ## Contributing and Feedback
 Contributions to this repository are warmly welcome! If you have any suggestions for improvements, new tutorial ideas, or if you find any issues, please feel free to reach out.
 
 You can:
 
-- **Open an Issue:** If you encounter any problems or have suggestions, you can [open an issue](https://github.com/your-username/mnist-tutorials/issues) on this repository.
+- **Open an Issue:** If you encounter any problems or have suggestions, you can [open an issue](https://github.com/AlexanderAKM/MNIST-tutorial/issues) on this repository.
 - **Submit a Pull Request:** If you'd like to contribute code or improvements, feel free to fork the repository, make your changes, and submit a pull request.
-- **Reach Out Directly:** If you have any questions, feedback, or just want to chat about machine learning, you can reach out to me directly via [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+- **Reach Out Directly:** If you have any questions, feedback, or just want to chat about machine learning, you can reach out to me directly via [email](alexanderklavermuller@gmail.com)
 
 I appreciate your interest in this project and look forward to any contributions or discussions!
 
-
 ## Future ideas
-There are a number of ideas I'm either working on or would like to implement in the future. If you have any suggestions, you can reach out to me or 
+There are a number of ideas I'm either working on or would like to implement in the future. These are:
+
+- Implementing uncertainty quantification in the advanced tutorial.
+- Implementing Tensorboard logging in the intermediate/advanced tutorial.
+- Implement model interpretability in the advanced tutorial.
